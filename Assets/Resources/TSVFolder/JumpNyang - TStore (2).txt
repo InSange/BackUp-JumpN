@@ -1,0 +1,8 @@
+친밀도 아이디	터치 횟수(이상)	대사타입1	대사타입2	대사타입3	대사타입4	할인율1	할인율2	할인율3	할인율4	최소 묶음 개수	최대 묶음 개수
+affinity_id	touch	script_type1	script_type2	script_type3	script_type4	discounttyip1	discounttyip2	discounttyip3	discounttyip4	min_set	max_set
+친함0	0	local_id_grmscrt_01	local_id_grmscrt_02	local_id_grmscrt_03	-1	0	-1	-1	-1	1	3
+친함1	30	local_id_grmscrt_04	local_id_grmscrt_05	local_id_grmscrt_06	-1	0	5	-1	-1	1	4
+친함2	80	local_id_grmscrt_07	local_id_grmscrt_08	local_id_grmscrt_09	-1	0	5	10	12	1	4
+친함3	150	local_id_grmscrt_10	local_id_grmscrt_11	local_id_grmscrt_12	local_id_grmscrt_13	0	10	12	15	1	5
+친함4	250	local_id_grmscrt_14	local_id_grmscrt_15	local_id_grmscrt_16	local_id_grmscrt_17	0	12	15	20	1	5
+친함5	500	local_id_grmscrt_18	local_id_grmscrt_19	local_id_grmscrt_20	local_id_grmscrt_21	0	15	20	25	1	6

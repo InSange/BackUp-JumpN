@@ -1,0 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class AttendanceSlot : MonoBehaviour
+{   // Ãâ¼®¿ë ½½·Ô
+    [SerializeField]
+    string reward_name;
+    [SerializeField]
+    int reward_val;   
+}

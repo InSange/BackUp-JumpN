@@ -1,0 +1,62 @@
+퀘스트 아이디	구분	퀘스트이름	퀘스트 설명	퀘스트 조건	조건 값		보상 조건	조건값1	조건값2	보상 아이콘	다음 퀘스트 아이디
+quest_id	description	quest_name	quest_description	quest_condition	q_value1	q_value2	reward_condition	r_value1	r_value2	rc_reward	nextqest_id
+qid_jump_01	점프 횟수 누적 {0}회	local_id_q_01	local_id_qstDsc_01	qstcndtid_01	100	-1	rewardid_1	100	-1	-1	qid_jump_02
+qid_jump_02		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	250	-1	rewardid_1	100	-1	-1	qid_jump_03
+qid_jump_03		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	630	-1	rewardid_1	100	-1	-1	qid_jump_04
+qid_jump_04		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	1,580	-1	rewardid_1	100	-1	-1	qid_jump_05
+qid_jump_05		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	3,950	-1	rewardid_1	100	-1	-1	qid_jump_06
+qid_jump_06		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	9,880	-1	rewardid_1	100	-1	-1	qid_jump_07
+qid_jump_07		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	24,700	-1	rewardid_1	100	-1	-1	qid_jump_08
+qid_jump_08		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	61,750	-1	rewardid_1	100	-1	-1	qid_jump_09
+qid_jump_09		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	154,380	-1	rewardid_1	100	-1	-1	qid_jump_10
+qid_jump_10		local_id_q_01	local_id_qstDsc_01	qstcndtid_01	385,950	-1	rewardid_1	100	-1	-1	-1
+qid_evasion_01	야채 피하기 누적 {0}회	local_id_q_02	local_id_qstDsc_02	qstcndtid_02	30	-1	rewardid_1	100	-1	-1	qid_evasion_02
+qid_evasion_02		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	80	-1	rewardid_1	100	-1	-1	qid_evasion_03
+qid_evasion_03		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	200	-1	rewardid_1	100	-1	-1	qid_evasion_04
+qid_evasion_04		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	500	-1	rewardid_1	100	-1	-1	qid_evasion_05
+qid_evasion_05		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	1,250	-1	rewardid_1	100	-1	-1	qid_evasion_06
+qid_evasion_06		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	3,130	-1	rewardid_1	100	-1	-1	qid_evasion_07
+qid_evasion_07		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	7,830	-1	rewardid_1	100	-1	-1	qid_evasion_08
+qid_evasion_08		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	19,580	-1	rewardid_1	100	-1	-1	qid_evasion_09
+qid_evasion_09		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	48,950	-1	rewardid_1	100	-1	-1	qid_evasion_10
+qid_evasion_10		local_id_q_02	local_id_qstDsc_02	qstcndtid_02	122,380	-1	rewardid_1	100	-1	-1	-1
+qid_money_01	조개 {0}냥 누적 획득	local_id_q_03	local_id_qstDsc_03	qstcndtid_03	1000	-1	rewardid_1	100	-1	-1	qid_money_02
+qid_money_02		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	2,500	-1	rewardid_1	100	-1	-1	qid_money_03
+qid_money_03		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	6,300	-1	rewardid_1	100	-1	-1	qid_money_04
+qid_money_04		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	15,800	-1	rewardid_1	100	-1	-1	qid_money_05
+qid_money_05		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	39,500	-1	rewardid_1	100	-1	-1	qid_money_06
+qid_money_06		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	98,800	-1	rewardid_1	100	-1	-1	qid_money_07
+qid_money_07		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	247,000	-1	rewardid_1	100	-1	-1	qid_money_08
+qid_money_08		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	618,000	-1	rewardid_1	100	-1	-1	qid_money_09
+qid_money_09		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	1,545,000	-1	rewardid_1	100	-1	-1	qid_money_10
+qid_money_10		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	3,863,000	-1	rewardid_1	100	-1	-1	qid_money_11
+qid_money_11		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	9,658,000	-1	rewardid_1	100	-1	-1	qid_money_12
+qid_money_12		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	24,100,000	-1	rewardid_1	100	-1	-1	qid_money_13
+qid_money_13		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	60,300,000	-1	rewardid_1	100	-1	-1	qid_money_14
+qid_money_14		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	150,800,000	-1	rewardid_1	100	-1	-1	qid_money_15
+qid_money_15		local_id_q_03	local_id_qstDsc_03	qstcndtid_03	377,000,000	-1	rewardid_1	100	-1	-1	-1
+qid_stuff_01	야채 {0}회 누적 구매	local_id_q_04	local_id_qstDsc_04	qstcndtid_04	5	-1	rewardid_1	100	-1	-1	qid_stuff_02
+qid_stuff_02		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	10	-1	rewardid_1	100	-1	-1	qid_stuff_03
+qid_stuff_03		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	20	-1	rewardid_1	100	-1	-1	qid_stuff_04
+qid_stuff_04		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	35	-1	rewardid_1	100	-1	-1	qid_stuff_05
+qid_stuff_05		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	55	-1	rewardid_1	100	-1	-1	qid_stuff_06
+qid_stuff_06		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	80	-1	rewardid_1	100	-1	-1	qid_stuff_07
+qid_stuff_07		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	120	-1	rewardid_1	100	-1	-1	qid_stuff_08
+qid_stuff_08		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	155	-1	rewardid_1	100	-1	-1	qid_stuff_09
+qid_stuff_09		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	195	-1	rewardid_1	100	-1	-1	qid_stuff_10
+qid_stuff_10		local_id_q_04	local_id_qstDsc_04	qstcndtid_04	250	-1	rewardid_1	100	-1	-1	-1
+qid_skin_01	코스튬 총 {0}개 구매	local_id_q_05	local_id_qstDsc_05	qstcndtid_05	1	-1	rewardid_1	100	-1	-1	qid_skin_02
+qid_skin_02		local_id_q_05	local_id_qstDsc_05	qstcndtid_05	3	-1	rewardid_1	100	-1	-1	qid_skin_03
+qid_skin_03		local_id_q_05	local_id_qstDsc_05	qstcndtid_05	5	-1	rewardid_1	100	-1	-1	qid_skin_04
+qid_skin_04		local_id_q_05	local_id_qstDsc_05	qstcndtid_05	7	-1	rewardid_1	100	-1	-1	qid_skin_05
+qid_skin_05		local_id_q_05	local_id_qstDsc_05	qstcndtid_05	9	-1	rewardid_1	100	-1	-1	-1
+qid_cook_01	엄마의 요리 {0}개 만들기	local_id_q_06	local_id_qstDsc_06	qstcndtid_06	1	-1	rewardid_1	100	-1	-1	qid_cook_02
+qid_cook_02		local_id_q_06	local_id_qstDsc_06	qstcndtid_06	3	-1	rewardid_1	100	-1	-1	qid_cook_03
+qid_cook_03		local_id_q_06	local_id_qstDsc_06	qstcndtid_06	5	-1	rewardid_1	100	-1	-1	qid_cook_04
+qid_cook_04		local_id_q_06	local_id_qstDsc_06	qstcndtid_06	7	-1	rewardid_1	100	-1	-1	qid_cook_05
+qid_cook_05		local_id_q_06	local_id_qstDsc_06	qstcndtid_06	9	-1	rewardid_1	100	-1	-1	-1
+qid_adrun_01	이어 달리기 누적 {0}회	local_id_q_07	local_id_qstDsc_07	qstcndtid_07	1	-1	rewardid_1	100	-1	-1	qid_adrun_02
+qid_adrun_02		local_id_q_07	local_id_qstDsc_07	qstcndtid_07	3	-1	rewardid_1	100	-1	-1	qid_adrun_03
+qid_adrun_03		local_id_q_07	local_id_qstDsc_07	qstcndtid_07	5	-1	rewardid_1	100	-1	-1	qid_adrun_04
+qid_adrun_04		local_id_q_07	local_id_qstDsc_07	qstcndtid_07	7	-1	rewardid_1	100	-1	-1	qid_adrun_05
+qid_adrun_05		local_id_q_07	local_id_qstDsc_07	qstcndtid_07	9	-1	rewardid_1	100	-1	-1	-1

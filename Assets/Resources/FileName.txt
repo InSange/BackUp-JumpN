@@ -1,0 +1,23 @@
+요리 아이디	요리이름	조건번호	조건값1	조건값2	조건값3	조건값4	조건값5	조건값6	요리이미지리소스	평가
+cook_id	cook_name	cook_condition_00	cook_condition_01	cook_condition_02	cook_condition_03	cook_condition_04	cook_condition_05	cook_condition_06	rc_cookimage	
+cookid_01	local_id_cook_001	0	1	0	0	0	0	0	s	베이컨이 짭짤한게 쫀맛탱이다.
+cookid_02	local_id_cook_002	1	1	3	1	1	0	0	s	국물이 진한게 해장용으로 딱이다.
+cookid_03	local_id_cook_003	2	2	0	0	0	0	0	s	파와 닭의 환상의 조합.
+cookid_04	local_id_cook_004	3	2	1	1	1	0	0	s	고기는 언제나 옳지!
+cookid_05	local_id_cook_005	4	1	2	0	0	0	0	s	또 언제 먹을지 모르는 고오급 요리.
+cookid_06	local_id_cook_006	5	1	1	1	1	0	0	s	피자피자!
+cookid_07	local_id_cook_007	6	2	1	0	0	0	0	s	또띠아또띠아!
+cookid_08	local_id_cook_008	7	1	1	0	0	0	0	s	버거버거
+cookid_09	local_id_cook_009	8	1	1	2	0	0	0	s	탕탕 삼계탕
+cookid_10	local_id_cook_010	9	1	1	2	0	0	0	s	갈비는 닭갈비
+cookid_11	local_id_cook_011	10	1	1	1	1	0	0	s	땡그랑땡
+cookid_12	local_id_cook_012	11	1	2	1	1	1	0	s	퍽퍽한 가슴살과 노맛 채소다.
+cookid_13	local_id_cook_013	12	1	1	1	1	0	0	s	카레는 마시쩡
+cookid_14	local_id_cook_014	13	1	1	1	1	0	0	s	갈비찜
+cookid_15	local_id_cook_015	14	1	1	1	0	0	0	s	야채죽
+cookid_16	local_id_cook_016	15	1	0	0	0	0	0	s	돈가스
+cookid_17	local_id_cook_017	16	1	1	0	0	0	0	s	냉면
+cookid_18	local_id_cook_018	17	1	1	1	0	0	0	s	베이컨 김치 볶음밥
+cookid_19	local_id_cook_019	18	1	1	1	0	0	0	s	햄 볶음밥
+cookid_20	local_id_cook_020	19	1	1	1	1	0	0	s	쏘야
+cookid_21	local_id_cook_021	20	1	1	1	0	0	0	s	쌀국수

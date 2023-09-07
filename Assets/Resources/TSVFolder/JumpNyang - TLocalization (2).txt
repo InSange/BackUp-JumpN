@@ -1,0 +1,208 @@
+로컬 아이디	한국어	영어
+local_id	string_kr	string_us
+//UI 스크립트		-1
+local_id_ui_01	우리 이야기	-1
+local_id_ui_02	도움말	-1
+local_id_ui_03	최고 점수	-1
+local_id_ui_04	터치해서 시작하기	-1
+local_id_ui_05	의상\n바꾸기	-1
+local_id_ui_06	지형\n바꾸기	-1
+local_id_ui_07	도감	-1
+local_id_ui_08	시장	-1
+local_id_ui_09	+1,000  획득!	-1
+local_id_ui_10	확인	-1
+local_id_ui_11	취소	-1
+local_id_ui_12	구매	-1
+local_id_ui_13	-의상을 선택해 주세요-	-1
+local_id_ui_14	-지형을 선택해 주세요-	-1
+local_id_ui_15	잠겼	-1
+local_id_ui_16	지롱~!	-1
+local_id_ui_17	요리도감	-1
+local_id_ui_18	야채도감	-1
+local_id_ui_19	재료	-1
+local_id_ui_20	요리하기!	-1
+local_id_ui_21	재료가 부족해요!	-1
+local_id_ui_22	"엄마\n배고파요!"	-1
+local_id_ui_23	"어린냥이야.\n맛있게 먹으렴!"	-1
+local_id_ui_24	와! 맛있겠다!	-1
+local_id_ui_25	잘 먹겠습니다!	-1
+local_id_ui_26	목표 달성	-1
+local_id_ui_27	순위 표	-1
+local_id_ui_28	점수	-1
+//시나리오		-1
+local_id_scnr_01	오늘 저녁 메뉴는<br>\n뭐가 좋을까?	-1
+local_id_scnr_02	아! 방울토마토가 들어간<br>\n베이컨 말이 어떨까?	-1
+local_id_scnr_03	하지만 집에 방울토마토가 없네...	-1
+local_id_scnr_04	"어린냥이야~ 어린냥이야~\n가서 방울토마토 좀 사오렴."	-1
+local_id_scnr_05	"싫어요."	-1
+local_id_scnr_06	"남은 돈으로 피카츄 돈가스 사먹으렴."	-1
+local_id_scnr_07	"쨩 조아!"	-1
+local_id_scnr_08	어린냥이는 엄마 심부름으로\n방울토마토를 사러가요.	-1
+local_id_scnr_09	화면을 터치하면 어린냥이가 점프를 해요.	-1
+local_id_scnr_10	잘했어요!	
+local_id_scnr_11	화면을 연속해서 두번 터치하면\n어린냥이가 이단 점프를 해요.	-1
+local_id_scnr_12	아주 잘했어요!	
+local_id_scnr_13	그럼 이제 방울토마토를 사볼까요?	-1
+local_id_scnr_14	"할머니 방울토마토 하나 주세요!"	-1
+local_id_scnr_15	"엄마 심부름 왔니?\n착한 냥이구나. 여깄단다."	-1
+local_id_scnr_16	"심부름 하고 먹는 피카츄 돈가스~ 냥꿀맛이라냥~"	-1
+local_id_scnr_17	"신성한 채소를 구매하면서\n살육으로 만들어진 피카츄 돈가스를 먹다니..."	-1
+local_id_scnr_18	"희생당한 돼지와 방울토마토의\n명예를 걸고 절대로 용서치 않겠다!"	-1
+local_id_scnr_19	돈가스 때문에 화가 난 비건냥이가\n어린냥이에게 토마토를 던지고 있어요!	
+local_id_scnr_20	점프로 날아오는 방울 토마토를 피해보세요.	-1
+local_id_scnr_21	좋아요!	-1
+local_id_scnr_22	비건냥이가 던진 야채에 맞으면\n어린냥이가 아파해요.	-1
+local_id_scnr_23	야채를 피해 오래 달릴 수록\n더 높은 점수를 획득할 수 있어요.	-1
+local_id_scnr_24	그럼 지금부터 한 번 달려볼까요?	-1
+local_id_scnr_25	"다녀왔습니다~! 엄마 배고파요!"	-1
+local_id_scnr_26	"방울 토마토를 잘 사왔구나!\n금방 요리 해줄테니까 조금만 기다리렴"	-1
+local_id_scnr_27	"다 됐단다!\n여기 맛난 베이컨 토마토 말이를 먹어보렴."	-1
+local_id_scnr_28	"역시 채소랑 고기랑 같이 먹어야 더 맛나!"	-1
+//배경 이름		-1
+local_id_bg_01	행복한 우리 동네	-1
+local_id_bg_02	번쩍 번쩍 시티	-1
+local_id_bg_03	시원한 해변가	-1
+local_id_bg_04	고요한 숲 길	-1
+//재료 이름		-1
+local_id_stuff_001	방울 토마토	-1
+local_id_stuff_002	파	-1
+local_id_stuff_003	양파	-1
+local_id_stuff_004	당근	-1
+local_id_stuff_005	피망	-1
+local_id_stuff_006	양상추	-1
+local_id_stuff_007	브로콜리	-1
+local_id_stuff_008	아스파라거스	-1
+local_id_stuff_009	감자	-1
+local_id_stuff_010	버섯	-1
+local_id_stuff_011	아보카도	-1
+local_id_stuff_012	시금치	-1
+local_id_stuff_013	고추	-1
+local_id_stuff_014	무	-1
+local_id_stuff_015	오이	-1
+local_id_stuff_016	인삼	-1
+local_id_stuff_017	고수	-1
+local_id_stuff_018	가지	-1
+local_id_stuff_019	애호박	-1
+local_id_stuff_020	토마토	-1
+//스크립트 앞뒤에 연결되는 단어/문장		
+local_id_cook_front	엄마의	
+local_id_cook_end	완성!	
+local_id_count	{0}개	
+//요리 이름		-1
+local_id_cook_001	베이컨 말이	-1
+local_id_cook_002	파닭꼬치	-1
+local_id_cook_003	피자	-1
+local_id_cook_004	돈까스	-1
+local_id_cook_005	스테이크	-1
+local_id_cook_006	카레라이스	-1
+local_id_cook_007	소시지브런치	-1
+local_id_cook_008	닭가슴살 샐러드	-1
+local_id_cook_009	햄버거	-1
+local_id_cook_010	부리또	-1
+local_id_cook_011	동그랑땡	-1
+local_id_cook_012	물냉면	-1
+local_id_cook_013	비빔냉면	-1
+local_id_cook_014	삼계탕	-1
+local_id_cook_015	쌀국수	-1
+local_id_cook_016	라따뚜이	-1
+//요리 완성		
+local_id_ckcomplit_0	완성!	
+//요리평가		
+local_id_cktaste_001	짭짤한 베이컨 속에 숨어있는 상큼한 방울토마토. 베이컨의 기름짐을 방울 토마토가 잡아주며 완벽한 조화를 이룬다.	-1
+local_id_cktaste_002	토치에 살짝 그슬려 불맛이 화려한 꼬치. 파와 닭을 한 번에 뜯어 먹어보자. 파와 닭이 입안에서  파닭파닭 날아다닐 것이다.	-1
+local_id_cktaste_003	고소한 도우위에 토마토 소스와 치즈, 토핑을 잔뜩 올렸다. 특히 페퍼로니가 콕콕 박혀있는 것이 인상적이다. 피자의 고장 이탈리아에서 페퍼로니는 파프리카라고 하니 주문할 때 주의하자.	-1
+local_id_cktaste_004	고슬고슬 갓 지은 밥과 함께 먹는 바삭한 등심 돈까스. 망치로 고기를 두드리고, 튀김옷을 입혀서 직접 집에서 튀겼다. 돈까스만 먹으면 느끼하니 양상추 샐러드와 함께 먹도록 하자.	-1
+local_id_cktaste_005	미디움 레어로 아주 완벽히 구워 낸 한우 스테이크. 엄마냥이가 오늘은 힘 좀 썼다. 곁들일 소스와 야채도 정갈하게 플레이팅 하면 고급 레스토랑이 부럽지 않다.	-1
+local_id_cktaste_006	재료를 큼직하게 썰어넣은 카레. 우유가 들어가서 부드럽고 고소하다. 앞으로 한동안은 카레만 먹어야 할 듯 하다...	-1
+local_id_cktaste_007	주말에 늘어지기 자고서 애매한 시간에 일어난 어린냥이를 위한 엄마냥이의 브런치. 어린냥이가 좋아하는 소세지를 두 개 굽고 계란후라이도 만들었다. 그렇다고 야채를 안 먹으면 혼나!	-1
+local_id_cktaste_008	왠지 먹으면 운동을 열심히 해야할 것 같다. 조금 퍽퍽한 닭가슴살을 상큼한 소스와 야채들이 중화해준다. 하지만 맛은...	-1
+local_id_cktaste_009	참깨빵 위에 순쇠고기 패티 두장 특별한 소스 양상추~ 치즈 피클 양파 까지! 감자튀김과 샐러드까지 곁들여 먹으면 훌륭한 수제 햄버거 완성!	-1
+local_id_cktaste_010	리또리또부리또! 고소한 또띠아 속에 재료를 왕창 넣었다. 초록초록 샐러드와 함께 먹으면 더 맛있다. 재료를 감싼 또띠아가 마치 어린냥이를 꼬옥 안아주는 엄마냥이 같다.	-1
+local_id_cktaste_011	고추를 넣어 조금 매운 동그랑땡이다. 어린냥이가 야채를 떼어내고 먹어도 유일하게 봐주는 음식. 대신에 다른 야채는 먹어야지?	-1
+local_id_cktaste_012	살어름 동동 육수가 머리를 띵-하게 만든다. 쫄깃 탱탱한 면이 잘 안 끊어지니 가위로 잘라먹는 것을 추천. 너무 많이 자르면 숟가락으로 퍼먹어야 하는데 이것도 나름 별미다. 	-1
+local_id_cktaste_013	시원하고 매운 비빔냉면. 육수를 살짝 넣어 먹으면 더 맛있다. 돼지갈비를 올려 함께 먹으면 환상적인 궁합을 자랑한다. 	-1
+local_id_cktaste_014	토종닭 한마리를 통째로 넣은 삼계탕. 몸에 좋은 맛이 난다. 더운 여름 이열치열로 힘내보자! 다 먹은 후 닭죽을 끓여먹으면 삼계탕 활용도 100%	-1
+local_id_cktaste_015	평소에는 잘 접하지 못하는 향신료의 맛이 느껴진다. 밀가루가 아닌 쌀로 만든 면이라서 그런지 부담없이 잘 넘어간다. 태국식 볶음밥도 함께 먹으면 더 맛있다.	-1
+local_id_cktaste_016	생쥐 아닙니다. 프랑스 요리입니다. 그냥 볶아도 되지만 예쁘게 플레이팅하면 더 맛있을지도? 야채만 넣던 원래 라따뚜이 레시피에 어린냥이가 좋아하는 다진 소고기를 소스에 추가했다.	-1
+//퀘스트 이름		-1
+local_id_q_01	단련된 하체{0}	-1
+local_id_q_02	느려{0}	-1
+local_id_q_03	저금을 했다면{0}	-1
+local_id_q_04	프로 심부름꾼{0}	-1
+local_id_q_05	코스튬플레이어{0}	-1
+local_id_q_06	엄마는 요리사{0}	-1
+local_id_q_07	마라토너{0}	-1
+//퀘스트 설명		-1
+local_id_qstDsc_01	점프 횟수 누적 {0}회	-1
+local_id_qstDsc_02	야채 피하기 누적 {0}회	-1
+local_id_qstDsc_03	조개 {0}냥 누적 획득	-1
+local_id_qstDsc_04	야채 {0}회 누적 구매	-1
+local_id_qstDsc_05	코스튬 총 {0}개 구매	-1
+local_id_qstDsc_06	엄마의 요리 {0}개 만들기	-1
+local_id_qstDsc_07	이어 달리기 누적 {0}회	-1
+//할매 대사		-1
+local_id_grmscrt_01	어서 오시게냥~	-1
+local_id_grmscrt_02	다 고르고 말 거냥?	-1
+local_id_grmscrt_03	장사만 40년 했다냥	-1
+local_id_grmscrt_04	반갑다냥~	-1
+local_id_grmscrt_05	일단 골라봐라냥	-1
+local_id_grmscrt_06	직접 기른 거다냥	-1
+local_id_grmscrt_07	또 왔구냥?	-1
+local_id_grmscrt_08	아주 싱싱하다냥~	-1
+local_id_grmscrt_09	비가 오려냥~..	-1
+local_id_grmscrt_10	오늘도 심부름이냥?	-1
+local_id_grmscrt_11	편하게 골라라냥	-1
+local_id_grmscrt_12	어린데 기특하구냥	-1
+local_id_grmscrt_13	안마가 시원하구냥~	-1
+local_id_grmscrt_14	어린냥이 왔냥?	-1
+local_id_grmscrt_15	자주 놀러오라냥	-1
+local_id_grmscrt_16	재밌는 일 없냥?	-1
+local_id_grmscrt_17	많이 담았다냥~	-1
+local_id_grmscrt_18	기다리고 있었다냥~	-1
+local_id_grmscrt_19	사탕 줄까냥?	-1
+local_id_grmscrt_20	많다고? 다 먹어냥~	-1
+local_id_grmscrt_21	말동무만 해줘도 좋다냥	-1
+//게임 팁		-1
+local_id_tip_01	야채가게 할머니는 안마를 좋아해요.	-1
+local_id_tip_02	상점의 상품은 n마다 바뀌기 때문에 수시로 확인하는 것이 좋아요.	-1
+local_id_tip_03	재료의 등급에 따라 상점에 등장할 확률은 달라져요.	-1
+local_id_tip_04	팁4	-1
+local_id_tip_05	팁5	-1
+local_id_tip_06	팁6	-1
+local_id_tip_07	팁7	-1
+local_id_tip_08	팁8	-1
+local_id_tip_09	팁9	-1
+local_id_tip_10	팁10	-1
+//스킨 이름		-1
+local_id_skin_001	어린냥이	-1
+local_id_skin_002	유치원복 어린냥이	-1
+local_id_skin_003	생일잔치 어린냥이	-1
+local_id_skin_004	마린룩 어린냥이	-1
+local_id_skin_005	노란리본 어린냥이	-1
+local_id_skin_006	카우보이 어린냥이	-1
+local_id_skin_007	밀짚모자 어린냥이	-1
+local_id_skin_008	멋진신사 어린냥이	-1
+local_id_skin_009	화가 어린냥이	-1
+local_id_skin_010	분홍벚꽃 어린냥이	-1
+local_id_skin_011	어릿광대 어린냥이	-1
+local_id_skin_012	스포티룩 어린냥이	-1
+local_id_skin_013	킹왕짱 어린냥이	-1
+local_id_skin_014	장난감병정 어린냥이	-1
+local_id_skin_015	분홍겨울 어린냥이	-1
+//스킨 설명		-1
+local_id_sknDsc_000	??? ???	-1
+local_id_sknDsc_001	튜냥의 끝은 순정?\n순정 가득 기본 어린냥이!	-1
+local_id_sknDsc_002	노란 모자와 카라가 포인트!\n귀여운 병아리 같아!	-1
+local_id_sknDsc_003	생일에 진심인 어린냥이\n모자와 망토는 깔맞춤!	-1
+local_id_sknDsc_004	청량한 파도소리\n파란 물결을 담은 마린룩!	-1
+local_id_sknDsc_005	노란 리본이 나비처럼 흔들린다.\n귀여움 +9999999	-1
+local_id_sknDsc_006	석양이 진다...\n카리스마 넘치는 어린냥이.	-1
+local_id_sknDsc_007	너 내 동료가 돼라!\n멋진 모험을 위한 밀짚모자!	-1
+local_id_sknDsc_008	나는야 멋쟁이 신사.\n굉장히 매너 있게 느껴진다.	-1
+local_id_sknDsc_009	천재 화가가 된 어린냥이.\n빨간 베레모는 화가의 상징!	-1
+local_id_sknDsc_010	떨어지는 벚꽃을 잡으면 사랑이 이루어진대!	-1
+local_id_sknDsc_011	귀여운 어릿광대 등장!\n엄청난 보드 묘기다!	-1
+local_id_sknDsc_012	노랑 볼캡과 초록 카라로 시원한 느낌! 여름이 왔구나~	-1
+local_id_sknDsc_013	왕을 위한 보석들이 반짝반짝 빛난다.	-1
+local_id_sknDsc_014	호두까기 인형 못지않은 강력함을 가진 어린냥이!	-1
+local_id_sknDsc_015	분홍색 털모자와 목도리로 보온과 귀여움을 모두 잡았다.	-1

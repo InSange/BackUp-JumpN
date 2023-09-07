@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75878c0fab24444588fd69f5a23de36, type: 3}
+  m_Name: TSVData
+  m_EditorClassIdentifier: 
+  sinaDataText: {fileID: 4900000, guid: 2e77420b0c676c1448a36557f58c5f57, type: 3}
+  localDataText: {fileID: 4900000, guid: e0008eb863c073147af4522002ce7ecb, type: 3}
+  backGroundDataText: {fileID: 4900000, guid: c5eae1841a6318f4696c276a4f56216c, type: 3}
+  stuffDataText: {fileID: 4900000, guid: 62461ed1880061f42aa2d4f765c4ce05, type: 3}
+  stuffGradeDataText: {fileID: 4900000, guid: dc7edbf0c4dc47e4e8535aa74c923443, type: 3}
+  storeDataText: {fileID: 4900000, guid: 96a2842f35bcc6a4f8c16e80b6d9ea02, type: 3}
+  cookDataText: {fileID: 4900000, guid: bbd982baa732dc242914741578081a57, type: 3}
+  questDataText: {fileID: 4900000, guid: 28bc8f0aaed87a840b697b76f0e10ff7, type: 3}
+  questConditionDataText: {fileID: 4900000, guid: 4cbe295ddf7f0d8439953e47d8f30a42, type: 3}
+  rewardDataText: {fileID: 4900000, guid: a16dfe6b7d2575749b11b7e1b70b2d50, type: 3}
+  tipDataText: {fileID: 4900000, guid: cb9d2217695fc1741ac5eff7b6295ec0, type: 3}
+  skinDataText: {fileID: 4900000, guid: 8f276f8b8cc0b254a9091b6303b813ba, type: 3}
+  resourceDataText: {fileID: 4900000, guid: df9262e8b61b3414988188afed762d25, type: 3}

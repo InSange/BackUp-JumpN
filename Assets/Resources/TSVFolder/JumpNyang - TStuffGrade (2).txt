@@ -1,0 +1,5 @@
+재료 등급 아이디	판매확률
+stuffgrade_id	sales_probability
+stuffgrd_0	50
+stuffgrd_1	35
+stuffgrd_2	15

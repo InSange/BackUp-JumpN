@@ -1,0 +1,12 @@
+팁 아이디	팁내용
+tipid	t_local
+tipid_01	local_id_tip_01
+tipid_02	local_id_tip_02
+tipid_03	local_id_tip_03
+tipid_04	local_id_tip_04
+tipid_05	local_id_tip_05
+tipid_06	local_id_tip_06
+tipid_07	local_id_tip_07
+tipid_08	local_id_tip_08
+tipid_09	local_id_tip_09
+tipid_10	local_id_tip_10

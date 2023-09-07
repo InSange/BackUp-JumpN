@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335138942196",
+    "project_id": "jumpnyang",
+    "firebase_url": "https://jumpnyang-default-rtdb.firebaseio.com/",
+    "storage_bucket": "jumpnyang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335138942196:android:fa68715f66184c3e8402a1",
+        "android_client_info": {
+          "package_name": "com.hiiix.nyangjump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335138942196-0meoi958m5a7e5au5td8dd4ed5p365ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa-5icvy6jx2nhNJoJTbpTtUWHr4G5Jbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335138942196-0meoi958m5a7e5au5td8dd4ed5p365ie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335138942196-6dt7lrorfcng1rnqrvfhhr6k1kqjtegj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hiiix.nyangjump"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

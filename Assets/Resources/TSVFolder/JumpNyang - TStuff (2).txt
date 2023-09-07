@@ -1,0 +1,22 @@
+재료 아이디	구분	도감 정렬순서	재료 이름	재료 등급	가격	썸네일 리소스	인게임 모션 리소스1	인게임 모션 리소스2	인게임 모션 리소스3	인게임 모션 리소스4
+stuff_id	description	sort_order	stuff_name	stuff_grade	stuff_price	rc_thumnail	rc_motion1			
+stuffid_01	방울 토마토	1	local_id_stuff_001	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_02	파	2	local_id_stuff_002	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_03	양파	3	local_id_stuff_003	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_04	당근	4	local_id_stuff_004	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_05	피망	5	local_id_stuff_005	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_06	양상추	6	local_id_stuff_006	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_07	브로콜리	7	local_id_stuff_007	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_08	아스파라거스	8	local_id_stuff_008	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_09	감자	9	local_id_stuff_009	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_10	버섯	10	local_id_stuff_010	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_11	아보카도	11	local_id_stuff_011	stuffgrd_2	100	reid_stfic_01	-1			
+stuffid_12	시금치	12	local_id_stuff_012	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_13	고추	13	local_id_stuff_013	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_14	무	14	local_id_stuff_014	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_15	오이	15	local_id_stuff_015	stuffgrd_1	100	reid_stfic_01	-1			
+stuffid_16	인삼	16	local_id_stuff_016	stuffgrd_2	100	reid_stfic_01	-1			
+stuffid_17	고수	17	local_id_stuff_017	stuffgrd_2	100	reid_stfic_01	-1			
+stuffid_18	가지	18	local_id_stuff_018	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_19	애호박	19	local_id_stuff_019	stuffgrd_0	100	reid_stfic_01	-1			
+stuffid_20	토마토	20	local_id_stuff_020	stuffgrd_0	100	reid_stfic_01	-1			

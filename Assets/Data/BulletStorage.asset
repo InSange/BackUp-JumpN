@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fde8955c87c6a434cb9451a5e6abc4d1, type: 3}
+  m_Name: BulletStorage
+  m_EditorClassIdentifier: 
+  bulletDatas:
+  - bulletImage: {fileID: 21300000, guid: 2e49dd23a887ff244bc2fc64cc40f47d, type: 3}
+    colX: 30
+  - bulletImage: {fileID: 21300000, guid: 5eae618bd2150e946b9d555c3333cc98, type: 3}
+    colX: 60
+  - bulletImage: {fileID: 21300000, guid: 095dd0f3c14a15348a35c18f98b1556c, type: 3}
+    colX: 90

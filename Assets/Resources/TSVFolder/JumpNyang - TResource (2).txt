@@ -1,0 +1,502 @@
+리소스 아이디	파일 이름	파일 내용
+resource_id	resource_name	detail
+//시나리오		
+rcid_scnr_001	rc/img/scnr_00	시나리오 임시 이미지
+//UI		
+rcid_ui_01	rc/ui/ui_01	메인-원형 버튼
+rcid_ui_02	rc/ui/ui_02	메인-업적/리더보드 버튼
+rcid_ui_03	rc/ui/ui_03	메인-의상/지형 버튼
+rcid_ui_04	rc/ui/ui_04	맵잠금 박스
+rcid_ui_05	rc/ui/ui_05	맵 창
+rcid_ui_06	rc/ui/ui_06	상단 전환메뉴
+rcid_ui_07	rc/ui/ui_07	내용박스
+rcid_ui_08	rc/ui/ui_08	요리도감 점선
+rcid_ui_09	rc/ui/ui_09	요리도감 빨리넘기기 스크롤바
+rcid_ui_10	rc/ui/ui_10	요리도감 빨리넘기기 스크롤
+rcid_ui_11	rc/ui/ui_11	퀘스트 창
+rcid_ui_12	rc/ui/ui_12	게이지바(색상 입히고 사이즈 조절해서 사용)
+rcid_ui_13	rc/ui/ui_13	퀘스트완료버튼
+rcid_ui_14	rc/ui/ui_14	퀘스트미완료버튼
+rcid_ui_15	rc/ui/ui_15	리더보드 박스
+rcid_ui_16	rc/ui/ui_16	알림 팝업
+rcid_ui_17	rc/ui/ui_17	팝업 박스
+rcid_ui_18	rc/ui/ui_18	달리기 결과 점선
+rcid_ui_19	rc/ui/ui_19	대화 말풍선
+rcid_ui_20	rc/ui/ui_20	대화 말풍선 꼬리
+//아이콘		
+rcid_ic_01	rc/ui/ic_01	우리 이야기
+rcid_ic_02	rc/ui/ic_02	도움말
+rcid_ic_03	rc/ui/ic_03	의상
+rcid_ic_04	rc/ui/ic_04	지형
+rcid_ic_05	rc/ui/ic_05	도감
+rcid_ic_06	rc/ui/ic_06	시장
+rcid_ic_07	rc/ui/ic_07	새로운 알림
+rcid_ic_08	rc/ui/ic_08	재화-기본
+rcid_ic_09	rc/ui/ic_09	광고
+rcid_ic_10	rc/ui/ic_10	화살표
+rcid_ic_11	rc/ui/ic_11	잠금
+rcid_ic_12	rc/ui/ic_12	페이지
+rcid_ic_13	rc/ui/ic_13	요리도감
+rcid_ic_14	rc/ui/ic_14	재료도감
+rcid_ic_15	rc/ui/ic_15	목표 달성
+rcid_ic_16	rc/ui/ic_16	순위 표
+rcid_ic_17	rc/ui/ic_17	하트-인게임
+rcid_ic_18	rc/ui/ic_18	재화-결과창 획득
+//재료 아이콘		
+reid_stfic_01	rc/ui/ic_stf00	재료아이콘-임시
+//요리		
+rcid_ck_01	rc/img/ck_00	요리이미지-임시
+//배경		
+rcid_bg_001	rc/bg/bg_00	임시배경1-튜토
+rcid_bg_002	rc/bg/bg_01	임시배경2-달리기
+//스킨 모션		
+re_id_c_001_01	rc/skin/c_001_01	캐릭터 모션 1
+re_id_c_001_02	rc/skin/c_001_02	
+re_id_c_001_03	rc/skin/c_001_03	
+re_id_c_001_04	rc/skin/c_001_04	
+re_id_c_001_05	rc/skin/c_001_05	
+re_id_c_001_06	rc/skin/c_001_06	
+re_id_c_001_07	rc/skin/c_001_07	
+re_id_c_001_08	rc/skin/c_001_08	
+re_id_c_001_09	rc/skin/c_001_09	
+re_id_c_001_10	rc/skin/c_001_10	
+re_id_c_001_11	rc/skin/c_001_11	
+re_id_c_001_12	rc/skin/c_001_12	
+re_id_c_001_13	rc/skin/c_001_13	
+re_id_c_001_14	rc/skin/c_001_14	
+re_id_c_001_15	rc/skin/c_001_15	
+re_id_c_002_01	rc/skin/c_002_01	캐릭터 모션 2
+re_id_c_002_02	rc/skin/c_002_02	
+re_id_c_002_03	rc/skin/c_002_03	
+re_id_c_002_04	rc/skin/c_002_04	
+re_id_c_002_05	rc/skin/c_002_05	
+re_id_c_002_06	rc/skin/c_002_06	
+re_id_c_002_07	rc/skin/c_002_07	
+re_id_c_002_08	rc/skin/c_002_08	
+re_id_c_002_09	rc/skin/c_002_09	
+re_id_c_002_10	rc/skin/c_002_10	
+re_id_c_002_11	rc/skin/c_002_11	
+re_id_c_002_12	rc/skin/c_002_12	
+re_id_c_002_13	rc/skin/c_002_13	
+re_id_c_002_14	rc/skin/c_002_14	
+re_id_c_002_15	rc/skin/c_002_15	
+re_id_c_003_01	rc/skin/c_003_01	캐릭터 모션 3
+re_id_c_003_02	rc/skin/c_003_02	
+re_id_c_003_03	rc/skin/c_003_03	
+re_id_c_003_04	rc/skin/c_003_04	
+re_id_c_003_05	rc/skin/c_003_05	
+re_id_c_003_06	rc/skin/c_003_06	
+re_id_c_003_07	rc/skin/c_003_07	
+re_id_c_003_08	rc/skin/c_003_08	
+re_id_c_003_09	rc/skin/c_003_09	
+re_id_c_003_10	rc/skin/c_003_10	
+re_id_c_003_11	rc/skin/c_003_11	
+re_id_c_003_12	rc/skin/c_003_12	
+re_id_c_003_13	rc/skin/c_003_13	
+re_id_c_003_14	rc/skin/c_003_14	
+re_id_c_003_15	rc/skin/c_003_15	
+re_id_c_004_01	rc/skin/c_004_01	캐릭터 모션 4
+re_id_c_004_02	rc/skin/c_004_02	
+re_id_c_004_03	rc/skin/c_004_03	
+re_id_c_004_04	rc/skin/c_004_04	
+re_id_c_004_05	rc/skin/c_004_05	
+re_id_c_004_06	rc/skin/c_004_06	
+re_id_c_004_07	rc/skin/c_004_07	
+re_id_c_004_08	rc/skin/c_004_08	
+re_id_c_004_09	rc/skin/c_004_09	
+re_id_c_004_10	rc/skin/c_004_10	
+re_id_c_004_11	rc/skin/c_004_11	
+re_id_c_004_12	rc/skin/c_004_12	
+re_id_c_004_13	rc/skin/c_004_13	
+re_id_c_004_14	rc/skin/c_004_14	
+re_id_c_004_15	rc/skin/c_004_15	
+re_id_c_005_01	rc/skin/c_005_01	캐릭터 모션 5
+re_id_c_005_02	rc/skin/c_005_02	
+re_id_c_005_03	rc/skin/c_005_03	
+re_id_c_005_04	rc/skin/c_005_04	
+re_id_c_005_05	rc/skin/c_005_05	
+re_id_c_005_06	rc/skin/c_005_06	
+re_id_c_005_07	rc/skin/c_005_07	
+re_id_c_005_08	rc/skin/c_005_08	
+re_id_c_005_09	rc/skin/c_005_09	
+re_id_c_005_10	rc/skin/c_005_10	
+re_id_c_005_11	rc/skin/c_005_11	
+re_id_c_005_12	rc/skin/c_005_12	
+re_id_c_005_13	rc/skin/c_005_13	
+re_id_c_005_14	rc/skin/c_005_14	
+re_id_c_005_15	rc/skin/c_005_15	
+re_id_c_006_01	rc/skin/c_006_01	캐릭터 모션 6
+re_id_c_006_02	rc/skin/c_006_02	
+re_id_c_006_03	rc/skin/c_006_03	
+re_id_c_006_04	rc/skin/c_006_04	
+re_id_c_006_05	rc/skin/c_006_05	
+re_id_c_006_06	rc/skin/c_006_06	
+re_id_c_006_07	rc/skin/c_006_07	
+re_id_c_006_08	rc/skin/c_006_08	
+re_id_c_006_09	rc/skin/c_006_09	
+re_id_c_006_10	rc/skin/c_006_10	
+re_id_c_006_11	rc/skin/c_006_11	
+re_id_c_006_12	rc/skin/c_006_12	
+re_id_c_006_13	rc/skin/c_006_13	
+re_id_c_006_14	rc/skin/c_006_14	
+re_id_c_006_15	rc/skin/c_006_15	
+re_id_c_007_01	rc/skin/c_007_01	캐릭터 모션 7
+re_id_c_007_02	rc/skin/c_007_02	
+re_id_c_007_03	rc/skin/c_007_03	
+re_id_c_007_04	rc/skin/c_007_04	
+re_id_c_007_05	rc/skin/c_007_05	
+re_id_c_007_06	rc/skin/c_007_06	
+re_id_c_007_07	rc/skin/c_007_07	
+re_id_c_007_08	rc/skin/c_007_08	
+re_id_c_007_09	rc/skin/c_007_09	
+re_id_c_007_10	rc/skin/c_007_10	
+re_id_c_007_11	rc/skin/c_007_11	
+re_id_c_007_12	rc/skin/c_007_12	
+re_id_c_007_13	rc/skin/c_007_13	
+re_id_c_007_14	rc/skin/c_007_14	
+re_id_c_007_15	rc/skin/c_007_15	
+re_id_c_008_01	rc/skin/c_008_01	캐릭터 모션 8
+re_id_c_008_02	rc/skin/c_008_02	
+re_id_c_008_03	rc/skin/c_008_03	
+re_id_c_008_04	rc/skin/c_008_04	
+re_id_c_008_05	rc/skin/c_008_05	
+re_id_c_008_06	rc/skin/c_008_06	
+re_id_c_008_07	rc/skin/c_008_07	
+re_id_c_008_08	rc/skin/c_008_08	
+re_id_c_008_09	rc/skin/c_008_09	
+re_id_c_008_10	rc/skin/c_008_10	
+re_id_c_008_11	rc/skin/c_008_11	
+re_id_c_008_12	rc/skin/c_008_12	
+re_id_c_008_13	rc/skin/c_008_13	
+re_id_c_008_14	rc/skin/c_008_14	
+re_id_c_008_15	rc/skin/c_008_15	
+re_id_c_009_01	rc/skin/c_009_01	캐릭터 모션 9
+re_id_c_009_02	rc/skin/c_009_02	
+re_id_c_009_03	rc/skin/c_009_03	
+re_id_c_009_04	rc/skin/c_009_04	
+re_id_c_009_05	rc/skin/c_009_05	
+re_id_c_009_06	rc/skin/c_009_06	
+re_id_c_009_07	rc/skin/c_009_07	
+re_id_c_009_08	rc/skin/c_009_08	
+re_id_c_009_09	rc/skin/c_009_09	
+re_id_c_009_10	rc/skin/c_009_10	
+re_id_c_009_11	rc/skin/c_009_11	
+re_id_c_009_12	rc/skin/c_009_12	
+re_id_c_009_13	rc/skin/c_009_13	
+re_id_c_009_14	rc/skin/c_009_14	
+re_id_c_009_15	rc/skin/c_009_15	
+re_id_c_010_01	rc/skin/c_010_01	캐릭터 모션 10
+re_id_c_010_02	rc/skin/c_010_02	
+re_id_c_010_03	rc/skin/c_010_03	
+re_id_c_010_04	rc/skin/c_010_04	
+re_id_c_010_05	rc/skin/c_010_05	
+re_id_c_010_06	rc/skin/c_010_06	
+re_id_c_010_07	rc/skin/c_010_07	
+re_id_c_010_08	rc/skin/c_010_08	
+re_id_c_010_09	rc/skin/c_010_09	
+re_id_c_010_10	rc/skin/c_010_10	
+re_id_c_010_11	rc/skin/c_010_11	
+re_id_c_010_12	rc/skin/c_010_12	
+re_id_c_010_13	rc/skin/c_010_13	
+re_id_c_010_14	rc/skin/c_010_14	
+re_id_c_010_15	rc/skin/c_010_15	
+re_id_c_011_01	rc/skin/c_011_01	캐릭터 모션 11
+re_id_c_011_02	rc/skin/c_011_02	
+re_id_c_011_03	rc/skin/c_011_03	
+re_id_c_011_04	rc/skin/c_011_04	
+re_id_c_011_05	rc/skin/c_011_05	
+re_id_c_011_06	rc/skin/c_011_06	
+re_id_c_011_07	rc/skin/c_011_07	
+re_id_c_011_08	rc/skin/c_011_08	
+re_id_c_011_09	rc/skin/c_011_09	
+re_id_c_011_10	rc/skin/c_011_10	
+re_id_c_011_11	rc/skin/c_011_11	
+re_id_c_011_12	rc/skin/c_011_12	
+re_id_c_011_13	rc/skin/c_011_13	
+re_id_c_011_14	rc/skin/c_011_14	
+re_id_c_011_15	rc/skin/c_011_15	
+re_id_c_012_01	rc/skin/c_012_01	캐릭터 모션 12
+re_id_c_012_02	rc/skin/c_012_02	
+re_id_c_012_03	rc/skin/c_012_03	
+re_id_c_012_04	rc/skin/c_012_04	
+re_id_c_012_05	rc/skin/c_012_05	
+re_id_c_012_06	rc/skin/c_012_06	
+re_id_c_012_07	rc/skin/c_012_07	
+re_id_c_012_08	rc/skin/c_012_08	
+re_id_c_012_09	rc/skin/c_012_09	
+re_id_c_012_10	rc/skin/c_012_10	
+re_id_c_012_11	rc/skin/c_012_11	
+re_id_c_012_12	rc/skin/c_012_12	
+re_id_c_012_13	rc/skin/c_012_13	
+re_id_c_012_14	rc/skin/c_012_14	
+re_id_c_012_15	rc/skin/c_012_15	
+re_id_c_013_01	rc/skin/c_013_01	캐릭터 모션 13
+re_id_c_013_02	rc/skin/c_013_02	
+re_id_c_013_03	rc/skin/c_013_03	
+re_id_c_013_04	rc/skin/c_013_04	
+re_id_c_013_05	rc/skin/c_013_05	
+re_id_c_013_06	rc/skin/c_013_06	
+re_id_c_013_07	rc/skin/c_013_07	
+re_id_c_013_08	rc/skin/c_013_08	
+re_id_c_013_09	rc/skin/c_013_09	
+re_id_c_013_10	rc/skin/c_013_10	
+re_id_c_013_11	rc/skin/c_013_11	
+re_id_c_013_12	rc/skin/c_013_12	
+re_id_c_013_13	rc/skin/c_013_13	
+re_id_c_013_14	rc/skin/c_013_14	
+re_id_c_013_15	rc/skin/c_013_15	
+re_id_c_014_01	rc/skin/c_014_01	캐릭터 모션 14
+re_id_c_014_02	rc/skin/c_014_02	
+re_id_c_014_03	rc/skin/c_014_03	
+re_id_c_014_04	rc/skin/c_014_04	
+re_id_c_014_05	rc/skin/c_014_05	
+re_id_c_014_06	rc/skin/c_014_06	
+re_id_c_014_07	rc/skin/c_014_07	
+re_id_c_014_08	rc/skin/c_014_08	
+re_id_c_014_09	rc/skin/c_014_09	
+re_id_c_014_10	rc/skin/c_014_10	
+re_id_c_014_11	rc/skin/c_014_11	
+re_id_c_014_12	rc/skin/c_014_12	
+re_id_c_014_13	rc/skin/c_014_13	
+re_id_c_014_14	rc/skin/c_014_14	
+re_id_c_014_15	rc/skin/c_014_15	
+re_id_c_015_01	rc/skin/c_015_01	캐릭터 모션 15
+re_id_c_015_02	rc/skin/c_015_02	
+re_id_c_015_03	rc/skin/c_015_03	
+re_id_c_015_04	rc/skin/c_015_04	
+re_id_c_015_05	rc/skin/c_015_05	
+re_id_c_015_06	rc/skin/c_015_06	
+re_id_c_015_07	rc/skin/c_015_07	
+re_id_c_015_08	rc/skin/c_015_08	
+re_id_c_015_09	rc/skin/c_015_09	
+re_id_c_015_10	rc/skin/c_015_10	
+re_id_c_015_11	rc/skin/c_015_11	
+re_id_c_015_12	rc/skin/c_015_12	
+re_id_c_015_13	rc/skin/c_015_13	
+re_id_c_015_14	rc/skin/c_015_14	
+re_id_c_015_15	rc/skin/c_015_15	
+re_id_b_001_01	rc/skin/b_001_01	보드 모션 1
+re_id_b_001_02	rc/skin/b_001_02	
+re_id_b_001_03	rc/skin/b_001_03	
+re_id_b_001_04	rc/skin/b_001_04	
+re_id_b_001_05	rc/skin/b_001_05	
+re_id_b_001_06	rc/skin/b_001_06	
+re_id_b_001_07	rc/skin/b_001_07	
+re_id_b_001_08	rc/skin/b_001_08	
+re_id_b_001_09	rc/skin/b_001_09	
+re_id_b_001_10	rc/skin/b_001_10	
+re_id_b_001_11	rc/skin/b_001_11	
+re_id_b_001_12	rc/skin/b_001_12	
+re_id_b_001_13	rc/skin/b_001_13	
+re_id_b_001_14	rc/skin/b_001_14	
+re_id_b_001_15	rc/skin/b_001_15	
+re_id_b_002_01	rc/skin/b_002_01	보드 모션 2
+re_id_b_002_02	rc/skin/b_002_02	
+re_id_b_002_03	rc/skin/b_002_03	
+re_id_b_002_04	rc/skin/b_002_04	
+re_id_b_002_05	rc/skin/b_002_05	
+re_id_b_002_06	rc/skin/b_002_06	
+re_id_b_002_07	rc/skin/b_002_07	
+re_id_b_002_08	rc/skin/b_002_08	
+re_id_b_002_09	rc/skin/b_002_09	
+re_id_b_002_10	rc/skin/b_002_10	
+re_id_b_002_11	rc/skin/b_002_11	
+re_id_b_002_12	rc/skin/b_002_12	
+re_id_b_002_13	rc/skin/b_002_13	
+re_id_b_002_14	rc/skin/b_002_14	
+re_id_b_002_15	rc/skin/b_002_15	
+re_id_b_003_01	rc/skin/b_003_01	보드 모션 3
+re_id_b_003_02	rc/skin/b_003_02	
+re_id_b_003_03	rc/skin/b_003_03	
+re_id_b_003_04	rc/skin/b_003_04	
+re_id_b_003_05	rc/skin/b_003_05	
+re_id_b_003_06	rc/skin/b_003_06	
+re_id_b_003_07	rc/skin/b_003_07	
+re_id_b_003_08	rc/skin/b_003_08	
+re_id_b_003_09	rc/skin/b_003_09	
+re_id_b_003_10	rc/skin/b_003_10	
+re_id_b_003_11	rc/skin/b_003_11	
+re_id_b_003_12	rc/skin/b_003_12	
+re_id_b_003_13	rc/skin/b_003_13	
+re_id_b_003_14	rc/skin/b_003_14	
+re_id_b_003_15	rc/skin/b_003_15	
+re_id_b_004_01	rc/skin/b_004_01	보드 모션 4
+re_id_b_004_02	rc/skin/b_004_02	
+re_id_b_004_03	rc/skin/b_004_03	
+re_id_b_004_04	rc/skin/b_004_04	
+re_id_b_004_05	rc/skin/b_004_05	
+re_id_b_004_06	rc/skin/b_004_06	
+re_id_b_004_07	rc/skin/b_004_07	
+re_id_b_004_08	rc/skin/b_004_08	
+re_id_b_004_09	rc/skin/b_004_09	
+re_id_b_004_10	rc/skin/b_004_10	
+re_id_b_004_11	rc/skin/b_004_11	
+re_id_b_004_12	rc/skin/b_004_12	
+re_id_b_004_13	rc/skin/b_004_13	
+re_id_b_004_14	rc/skin/b_004_14	
+re_id_b_004_15	rc/skin/b_004_15	
+re_id_b_005_01	rc/skin/b_005_01	보드 모션 5
+re_id_b_005_02	rc/skin/b_005_02	
+re_id_b_005_03	rc/skin/b_005_03	
+re_id_b_005_04	rc/skin/b_005_04	
+re_id_b_005_05	rc/skin/b_005_05	
+re_id_b_005_06	rc/skin/b_005_06	
+re_id_b_005_07	rc/skin/b_005_07	
+re_id_b_005_08	rc/skin/b_005_08	
+re_id_b_005_09	rc/skin/b_005_09	
+re_id_b_005_10	rc/skin/b_005_10	
+re_id_b_005_11	rc/skin/b_005_11	
+re_id_b_005_12	rc/skin/b_005_12	
+re_id_b_005_13	rc/skin/b_005_13	
+re_id_b_005_14	rc/skin/b_005_14	
+re_id_b_005_15	rc/skin/b_005_15	
+re_id_b_006_01	rc/skin/b_006_01	보드 모션 6
+re_id_b_006_02	rc/skin/b_006_02	
+re_id_b_006_03	rc/skin/b_006_03	
+re_id_b_006_04	rc/skin/b_006_04	
+re_id_b_006_05	rc/skin/b_006_05	
+re_id_b_006_06	rc/skin/b_006_06	
+re_id_b_006_07	rc/skin/b_006_07	
+re_id_b_006_08	rc/skin/b_006_08	
+re_id_b_006_09	rc/skin/b_006_09	
+re_id_b_006_10	rc/skin/b_006_10	
+re_id_b_006_11	rc/skin/b_006_11	
+re_id_b_006_12	rc/skin/b_006_12	
+re_id_b_006_13	rc/skin/b_006_13	
+re_id_b_006_14	rc/skin/b_006_14	
+re_id_b_006_15	rc/skin/b_006_15	
+re_id_b_007_01	rc/skin/b_007_01	보드 모션 7
+re_id_b_007_02	rc/skin/b_007_02	
+re_id_b_007_03	rc/skin/b_007_03	
+re_id_b_007_04	rc/skin/b_007_04	
+re_id_b_007_05	rc/skin/b_007_05	
+re_id_b_007_06	rc/skin/b_007_06	
+re_id_b_007_07	rc/skin/b_007_07	
+re_id_b_007_08	rc/skin/b_007_08	
+re_id_b_007_09	rc/skin/b_007_09	
+re_id_b_007_10	rc/skin/b_007_10	
+re_id_b_007_11	rc/skin/b_007_11	
+re_id_b_007_12	rc/skin/b_007_12	
+re_id_b_007_13	rc/skin/b_007_13	
+re_id_b_007_14	rc/skin/b_007_14	
+re_id_b_007_15	rc/skin/b_007_15	
+re_id_b_008_01	rc/skin/b_008_01	보드 모션 8
+re_id_b_008_02	rc/skin/b_008_02	
+re_id_b_008_03	rc/skin/b_008_03	
+re_id_b_008_04	rc/skin/b_008_04	
+re_id_b_008_05	rc/skin/b_008_05	
+re_id_b_008_06	rc/skin/b_008_06	
+re_id_b_008_07	rc/skin/b_008_07	
+re_id_b_008_08	rc/skin/b_008_08	
+re_id_b_008_09	rc/skin/b_008_09	
+re_id_b_008_10	rc/skin/b_008_10	
+re_id_b_008_11	rc/skin/b_008_11	
+re_id_b_008_12	rc/skin/b_008_12	
+re_id_b_008_13	rc/skin/b_008_13	
+re_id_b_008_14	rc/skin/b_008_14	
+re_id_b_008_15	rc/skin/b_008_15	
+re_id_b_009_01	rc/skin/b_009_01	보드 모션 9
+re_id_b_009_02	rc/skin/b_009_02	
+re_id_b_009_03	rc/skin/b_009_03	
+re_id_b_009_04	rc/skin/b_009_04	
+re_id_b_009_05	rc/skin/b_009_05	
+re_id_b_009_06	rc/skin/b_009_06	
+re_id_b_009_07	rc/skin/b_009_07	
+re_id_b_009_08	rc/skin/b_009_08	
+re_id_b_009_09	rc/skin/b_009_09	
+re_id_b_009_10	rc/skin/b_009_10	
+re_id_b_009_11	rc/skin/b_009_11	
+re_id_b_009_12	rc/skin/b_009_12	
+re_id_b_009_13	rc/skin/b_009_13	
+re_id_b_009_14	rc/skin/b_009_14	
+re_id_b_009_15	rc/skin/b_009_15	
+re_id_b_010_01	rc/skin/b_010_01	보드 모션 10
+re_id_b_010_02	rc/skin/b_010_02	
+re_id_b_010_03	rc/skin/b_010_03	
+re_id_b_010_04	rc/skin/b_010_04	
+re_id_b_010_05	rc/skin/b_010_05	
+re_id_b_010_06	rc/skin/b_010_06	
+re_id_b_010_07	rc/skin/b_010_07	
+re_id_b_010_08	rc/skin/b_010_08	
+re_id_b_010_09	rc/skin/b_010_09	
+re_id_b_010_10	rc/skin/b_010_10	
+re_id_b_010_11	rc/skin/b_010_11	
+re_id_b_010_12	rc/skin/b_010_12	
+re_id_b_010_13	rc/skin/b_010_13	
+re_id_b_010_14	rc/skin/b_010_14	
+re_id_b_010_15	rc/skin/b_010_15	
+re_id_b_011_01	rc/skin/b_011_01	보드 모션 11
+re_id_b_011_02	rc/skin/b_011_02	
+re_id_b_011_03	rc/skin/b_011_03	
+re_id_b_011_04	rc/skin/b_011_04	
+re_id_b_011_05	rc/skin/b_011_05	
+re_id_b_011_06	rc/skin/b_011_06	
+re_id_b_011_07	rc/skin/b_011_07	
+re_id_b_011_08	rc/skin/b_011_08	
+re_id_b_011_09	rc/skin/b_011_09	
+re_id_b_011_10	rc/skin/b_011_10	
+re_id_b_011_11	rc/skin/b_011_11	
+re_id_b_011_12	rc/skin/b_011_12	
+re_id_b_011_13	rc/skin/b_011_13	
+re_id_b_011_14	rc/skin/b_011_14	
+re_id_b_011_15	rc/skin/b_011_15	
+re_id_b_012_01	rc/skin/b_012_01	보드 모션 12
+re_id_b_012_02	rc/skin/b_012_02	
+re_id_b_012_03	rc/skin/b_012_03	
+re_id_b_012_04	rc/skin/b_012_04	
+re_id_b_012_05	rc/skin/b_012_05	
+re_id_b_012_06	rc/skin/b_012_06	
+re_id_b_012_07	rc/skin/b_012_07	
+re_id_b_012_08	rc/skin/b_012_08	
+re_id_b_012_09	rc/skin/b_012_09	
+re_id_b_012_10	rc/skin/b_012_10	
+re_id_b_012_11	rc/skin/b_012_11	
+re_id_b_012_12	rc/skin/b_012_12	
+re_id_b_012_13	rc/skin/b_012_13	
+re_id_b_012_14	rc/skin/b_012_14	
+re_id_b_012_15	rc/skin/b_012_15	
+re_id_b_013_01	rc/skin/b_013_01	보드 모션 13
+re_id_b_013_02	rc/skin/b_013_02	
+re_id_b_013_03	rc/skin/b_013_03	
+re_id_b_013_04	rc/skin/b_013_04	
+re_id_b_013_05	rc/skin/b_013_05	
+re_id_b_013_06	rc/skin/b_013_06	
+re_id_b_013_07	rc/skin/b_013_07	
+re_id_b_013_08	rc/skin/b_013_08	
+re_id_b_013_09	rc/skin/b_013_09	
+re_id_b_013_10	rc/skin/b_013_10	
+re_id_b_013_11	rc/skin/b_013_11	
+re_id_b_013_12	rc/skin/b_013_12	
+re_id_b_013_13	rc/skin/b_013_13	
+re_id_b_013_14	rc/skin/b_013_14	
+re_id_b_013_15	rc/skin/b_013_15	
+re_id_b_014_01	rc/skin/b_014_01	보드 모션 14
+re_id_b_014_02	rc/skin/b_014_02	
+re_id_b_014_03	rc/skin/b_014_03	
+re_id_b_014_04	rc/skin/b_014_04	
+re_id_b_014_05	rc/skin/b_014_05	
+re_id_b_014_06	rc/skin/b_014_06	
+re_id_b_014_07	rc/skin/b_014_07	
+re_id_b_014_08	rc/skin/b_014_08	
+re_id_b_014_09	rc/skin/b_014_09	
+re_id_b_014_10	rc/skin/b_014_10	
+re_id_b_014_11	rc/skin/b_014_11	
+re_id_b_014_12	rc/skin/b_014_12	
+re_id_b_014_13	rc/skin/b_014_13	
+re_id_b_014_14	rc/skin/b_014_14	
+re_id_b_014_15	rc/skin/b_014_15	
+re_id_b_015_01	rc/skin/b_015_01	보드 모션 15
+re_id_b_015_02	rc/skin/b_015_02	
+re_id_b_015_03	rc/skin/b_015_03	
+re_id_b_015_04	rc/skin/b_015_04	
+re_id_b_015_05	rc/skin/b_015_05	
+re_id_b_015_06	rc/skin/b_015_06	
+re_id_b_015_07	rc/skin/b_015_07	
+re_id_b_015_08	rc/skin/b_015_08	
+re_id_b_015_09	rc/skin/b_015_09	
+re_id_b_015_10	rc/skin/b_015_10	
+re_id_b_015_11	rc/skin/b_015_11	
+re_id_b_015_12	rc/skin/b_015_12	
+re_id_b_015_13	rc/skin/b_015_13	
+re_id_b_015_14	rc/skin/b_015_14	
+re_id_b_015_15	rc/skin/b_015_15	

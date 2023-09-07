@@ -1,0 +1,9 @@
+아이디	조건
+qstcondition_id	condition
+qstcndtid_01	점프 횟수 누적 {0}회 달성
+qstcndtid_02	야채 피하기 누적 {0}회 달성
+qstcndtid_03	획득 재화 누적 {0}냥 달성
+qstcndtid_04	야채 구매 총 {0}회 달성
+qstcndtid_05	코스튬 수집 총 {0}개 달성
+qstcndtid_06	요리 수집 총 {0}개 달성
+qstcndtid_07	이어 달리기 누적 {0}회

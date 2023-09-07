@@ -1,0 +1,6 @@
+배경 아이디	구분분	배경이름	가격	배경음악	썸네일리소스	인게임리소스
+background_id	description	background_name	background_price	background_music	rc_thumnail	rc_ingame
+bgid_01	행복한 우리 동네	local_id_bg_01	-1	-1	-1	rcid_bg_002
+bgid_02	번쩍 번쩍 시티	local_id_bg_02	2000	-1	-1	-1
+bgid_03	시원한 해변가	local_id_bg_03	3000	-1	-1	-1
+bgid_04	고요한 숲 길	local_id_bg_04	4000	-1	-1	-1

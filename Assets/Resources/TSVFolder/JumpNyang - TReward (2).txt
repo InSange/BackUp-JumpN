@@ -1,0 +1,4 @@
+아이디	조건
+reward_id	condition
+rewardid_1	재화 {0}냥
+rewardid_2	재료 아이템 {0}개

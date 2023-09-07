@@ -1,0 +1,18 @@
+요리 아이디	구분	정렬순서	요리이름	필요재료-개수1	필요재료-개수2	필요재료-개수3	필요재료-개수4	필요재료-개수5	필요재료-개수6	요리 이미지 리소스	요리 완료시 맛 평가
+cook_id	description	sort_order	cook_name	stuff_type01	stuff_type02	stuff_type03	stuff_type04	stuff_type05	stuff_type06	rc_cookimage	local_tast
+cookid_01	베이컨 말이	1	local_id_cook_001	-1	-1	-1	-1	-1	-1	rcid_ck_01	local_id_cktaste_001
+cookid_02	파닭꼬치	2	local_id_cook_002	stuffid_02-6	-1	-1	-1	-1	-1	rcid_ck_01	local_id_cktaste_002
+cookid_03	패퍼로니피자	3	local_id_cook_003	stuffid_20-5	stuffid_05-5	stuffid_03-5	stuffid_10-3	stuffid_09-5	-1	rcid_ck_01	local_id_cktaste_003
+cookid_04	돈까스	4	local_id_cook_004	stuffid_01-3	stuffid_06-5	stuffid_05-3	-1	-1	-1	rcid_ck_01	local_id_cktaste_004
+cookid_05	스테이크	5	local_id_cook_005	stuffid_08-6	stuffid_01-5	stuffid_06-5	stuffid_10-2	-1	-1	rcid_ck_01	local_id_cktaste_005
+cookid_06	카레라이스	6	local_id_cook_006	stuffid_04-7	stuffid_05-5	stuffid_03-7	stuffid_07-3	stuffid_01-3	stuffid_10-5	rcid_ck_01	local_id_cktaste_006
+cookid_07	소시지브런치	7	local_id_cook_007	stuffid_06-10	stuffid_01-5	stuffid_11-2	stuffid_10-3	-1	-1	rcid_ck_01	local_id_cktaste_007
+cookid_08	닭가슴살 샐러드	8	local_id_cook_008	stuffid_01-5	stuffid_06-13	stuffid_07-3	stuffid_03-5	stuffid_11-1	stuffid_05-3	rcid_ck_01	local_id_cktaste_008
+cookid_09	햄버거	9	local_id_cook_009	stuffid_20-5	stuffid_06-8	stuffid_07-2	stuffid_01-2	stuffid_09-10	-1	rcid_ck_01	local_id_cktaste_009
+cookid_10	부리또	10	local_id_cook_010	stuffid_01-10	stuffid_03-10	stuffid_06-15	stuffid_07-8	stuffid_11-2	stuffid_10-5	rcid_ck_01	local_id_cktaste_010
+cookid_11	동그랑땡	11	local_id_cook_011	stuffid_01-5	stuffid_05-3	stuffid_13-5	stuffid_07-3	stuffid_06-10	-1	rcid_ck_01	local_id_cktaste_011
+cookid_12	물냉면	12	local_id_cook_012	stuffid_04-5	stuffid_15-10	stuffid_14-3	stuffid_06-3	-1	-1	rcid_ck_01	local_id_cktaste_012
+cookid_13	비빔냉면	13	local_id_cook_013	stuffid_04-5	stuffid_13-5	stuffid_15-10	stuffid_14-3	stuffid_06-3	-1	rcid_ck_01	local_id_cktaste_013
+cookid_14	삼계탕	14	local_id_cook_014	stuffid_02-5	stuffid_13-3	stuffid_10-5	stuffid_16-3	-1	-1	rcid_ck_01	local_id_cktaste_014
+cookid_15	쌀국수	15	local_id_cook_015	stuffid_17-3	stuffid_03-5	stuffid_02-8	stuffid_13-2	-1	-1	rcid_ck_01	local_id_cktaste_015
+cookid_16	라따뚜이	16	local_id_cook_016	stuffid_20-10	stuffid_03-10	stuffid_19-10	stuffid_18-10	stuffid_05-8	-1	rcid_ck_01	local_id_cktaste_016
